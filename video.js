@@ -22,7 +22,7 @@ function main() {
   video.id = "sissyvideo";
   video.preload = 'metadata';
   video.poster = 'https://www.dropbox.com/s/uxrub8yyotggu18/CSavVszWUAAxQW-.jpg?dl=1'
-  video.autoplay = false;
+  video.autoplay = true;
   video.loop = false;
   video.muted = true;
   video.volume = 0;
